@@ -15,3 +15,4 @@ Link: {base_url}/api/documentation
 ## fastFOREX Conversion API
 - Documentation: https://fastforex.readme.io/reference/introduction
 - Trial key will expire => 16th Jun 2023 (Thur)
+- If this key expires, please sign in https://console.fastforex.io/auth/signin to generate a new one, and update "EXCHANGE_RATE_API_KEY" at .env file with the new key
